@@ -1,0 +1,6 @@
+.env
+venv/
+logs/
+state/downloaded.txt
+__pycache__/
+*.pyc

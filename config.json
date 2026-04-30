@@ -1,0 +1,17 @@
+{
+  "ffmpeg_path": "C:\\ffmpeg\\bin\\ffmpeg.exe",
+  "audio_quality": "192",
+  "state_file": "state\\downloaded.txt",
+  "singles_folder": "music\\singles",
+  "playlists": [
+    {
+      "url": "https://www.youtube.com/playlist?list=PLxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "folder": "music\\playlist1",
+      "name": "Playlist1"
+    }
+  ],
+  "discord": {
+    "bot_schedules_batch": false,
+    "batch_schedule_hour": 9
+  }
+}
