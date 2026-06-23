@@ -1,5 +1,6 @@
 .env
 venv/
+music/
 logs/
 state/downloaded.txt
 __pycache__/

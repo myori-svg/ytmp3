@@ -1,5 +1,5 @@
 {
-  "ffmpeg_path": "C:\\ffmpeg\\bin\\ffmpeg.exe",
+  "ffmpeg_path": "ffmpeg",
   "audio_quality": "192",
   "state_file": "state\\downloaded.txt",
   "singles_folder": "music\\singles",
